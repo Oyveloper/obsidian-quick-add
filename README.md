@@ -2,8 +2,6 @@
 
 A lightweight macOS menubar app for quickly adding tasks to your Obsidian daily notes from anywhere, with natural language date parsing.
 
-![Demo](docs/demo.gif)
-
 ## Features
 
 - **Global hotkey** (`Cmd+Shift+K`) - Opens instantly from any app
